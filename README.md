@@ -2,6 +2,13 @@
 
 # Netflix Clone
 
+<img src="https://github.com/Abdullah-Anaz/netflix-clone/blob/main/netflixclone.png" alt="netflix clone"/>
+
+<br/>
+
+
+<img src="https://github.com/Abdullah-Anaz/netflix-clone/blob/main/netflixclone2.png" alt="netflix clone"/>
+
 <p>This project is a Netflix clone created with React and the TMDB API. It aims to replicate the basic functionality and appearance of the popular streaming platform Netflix.</p>
 
 <h2>Live:</h2>
